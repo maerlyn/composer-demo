@@ -1,5 +1,9 @@
 {
   "require": {
-    "silex/silex": "dev-master"
+    "monolog/monolog": "1.0.2",
+    "symfony/event-dispatcher": "dev-master",
+    "symfony/finder": ">=2.0",
+    "symfony/routing": "dev-master",
+    "twig/twig": "1.6.1"
   }
 }
